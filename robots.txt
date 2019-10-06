@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aliexatain.blinkenrocket.de/sitemap.xml
